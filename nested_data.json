@@ -1,0 +1,19 @@
+{ "person1": {
+        "name": "John",
+        "age": 30,
+        "address": {
+            "city": "New York",
+            "state": "NY",
+            "zipcode": 10001
+        }
+    },
+    "person2": {
+        "name": "Alice",
+        "age": 25,
+        "address": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "zipcode": 90001
+        }
+    }
+}
